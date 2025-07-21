@@ -114,7 +114,7 @@
 </table>
 
 <details>
-## Network
+<summary>## Network </summary><br><b>
 
 <details>
 <summary>In general, what do you need in order to communicate?</summary><br><b>
