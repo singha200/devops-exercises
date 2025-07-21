@@ -113,7 +113,7 @@
 </tr>
 </table>
 
-
+<details>
 ## Network
 
 <details>
@@ -706,6 +706,7 @@ The World Wide Web is an application running on millions of servers, on top of t
 
 ISP (Internet Service Provider) is the local internet company provider.
 </b></details>
+</details>
 
 ## Operating System
 
