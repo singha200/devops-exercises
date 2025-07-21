@@ -113,8 +113,11 @@
 </tr>
 </table>
 
+## Devops Interview Questions.
+
+## Networking 
 <details>
-<summary>## Network </summary><br><b>
+<summary>Networking</summary><br><b>
 
 <details>
 <summary>In general, what do you need in order to communicate?</summary><br><b>
